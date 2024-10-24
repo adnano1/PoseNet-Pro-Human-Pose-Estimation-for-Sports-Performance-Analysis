@@ -1,4 +1,4 @@
-Here’s a template for a README file for your project **PoseNet-Pro-Human-Pose-Estimation-for-Sports-Performance-Analysis**. You can modify it according to your needs.
+ **PoseNet-Pro-Human-Pose-Estimation-for-Sports-Performance-Analysis**
 
 ### README.md
 
