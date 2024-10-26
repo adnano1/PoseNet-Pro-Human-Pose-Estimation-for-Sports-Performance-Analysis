@@ -9,7 +9,7 @@ PoseNet Pro is a human pose estimation project designed to analyze sports perfor
 - Performance Analysis: Analyze sports performance based on pose metrics.
 - Customizable: Adaptable for various sports and performance metrics.
 
-## Dataset
+## Dataset 
 This project uses the AIHub's Pose Dataset, which contains annotated images of athletes performing various sports activities. The dataset includes:
 - Image files
 - Keypoint annotations in JSON format
