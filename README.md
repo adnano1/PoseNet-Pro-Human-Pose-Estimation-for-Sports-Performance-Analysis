@@ -1,4 +1,4 @@
-# PoseNet Pro: Human Pose Estimation for Sports Performance Analysis
+ # PoseNet Pro: Human Pose Estimation for Sports Performance Analysis
  
 ## Project Overview
 PoseNet Pro is a human pose estimation project designed to analyze sports performance using advanced computer vision techniques. This project utilizes the PoseNet model to detect human keypoints in real-time, enabling athletes and coaches to assess performance metrics.
